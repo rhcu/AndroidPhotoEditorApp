@@ -44,4 +44,4 @@
                 requestQueue.add(stringRequest);
 
             }});
-        
+        //were in the UserAreaActivity, onCreate().

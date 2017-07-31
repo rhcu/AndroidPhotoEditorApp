@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="ask_for_upload">Please, upload a photo or take a new one</string>
+    <string name="upload">Upload from gallery</string>
+    <string name="camera">Open a camera</string>
+    <string name="no_photos">Seems you do not have any photos yet :(</string>
+    <string name="password">Password</string>
+    <string name="select">To select a new photo press "Choose" button</string>
+    <string name="catify">To know which cat you are press "Go" button"</string>
+    <string name="username">Username</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="facebook_app_id">1413632455351694</string>
+    <string name="fb_login_protocol_scheme">fb1413632455351694</string>
+    <string name="emojify_me">Emojify Me!</string>
+    <string name="no_emoji">No Emoji Expression Found</string>
+    <string name="delete_success">Images was deleted!</string>
+    <string name="delete_failure">Image deletion failed</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+    <string name="not_saved">Image not saved!</string>
+    <string name="error">Error finding image</string>
+    <string name="go">GO</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="imageview_description">The imageview that contains the emojified picture</string>
+    <string name="no_faces_message">No Faces Detected</string>
+    <string name="change">Change</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="about">PhotoEditor is an Android Application that gives a user an ability to replace their face on photo with suitable
+    funny cat faces, which are chosen correspondingly to the face expression that user has on the photo.</string>
+    <string name="myself">Assiya Khuzyakhmetova</string>
+    <string name="email">assiyakhuzyakhmetova@gmail.com</string>
+</resources>

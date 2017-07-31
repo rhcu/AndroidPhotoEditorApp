@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="About"
+        android:id="@+id/info"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_info_outline_black_24dp">
+    </item>
+    <item android:title="Password"
+    android:id="@+id/password_change"
+    android:orderInCategory="200"
+    android:icon="@drawable/ic_edit_black_24dp">
+    </item>
+    <item android:title="Logout"
+        android:id="@+id/logout"
+        android:orderInCategory="250"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>
